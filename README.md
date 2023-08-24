@@ -32,6 +32,14 @@ Some regression models(provided by sklearn) are use in this project:
 
 Also using **GridSearchCV** for hyperparameter tuning and using **r2_score** for evaluation
 
+# Installation
+* Install docker (if you don't have)
+* Clone this repository
+* Build the image using command: `docker build - r <image's name> .`
+* Create the container using command: `docker run -d -p 80:80 <image's name>`
+* Open a web browser and navigate to http://localhost:80
+
+
 # Demo
 The project is deployed on [render](https://render.com/) with free usage. Due to render's policy, there'll be a delay in the response of the first request after a period of inactivity while the instance spins up. It will take time to load the website
 
