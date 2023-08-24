@@ -33,7 +33,11 @@ Some regression models(provided by sklearn) are use in this project:
 Also using **GridSearchCV** for hyperparameter tuning and using **r2_score** for evaluation
 
 # Demo
-link: https://simple-ml-project.onrender.com/
+The project is deployed on [render](https://render.com/) with free usage. Due to render's policy, there'll be a delay in the response of the first request after a period of inactivity while the instance spins up. It will take time to load the website
+
+Link: https://simple-ml-project.onrender.com/
+
+
 <p align="center">
 <img src="https://github.com/ptatien0307/MLProject/assets/79583501/f6a24193-4945-4ee4-b2c5-603f8ab41572.png" alt="drawing" width="85%" height="85%"/>
 </p>
